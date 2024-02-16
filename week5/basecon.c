@@ -10,7 +10,6 @@ void main()
         printf("                  2: hexadecimal to decimal\n");
         printf("                  3: hexadecimal to octal\n");
         printf("                  4: octal to hexadecimal\n");
-
         printf("enter your type: ");
         scanf("%d",&type);
         if(type==1){
