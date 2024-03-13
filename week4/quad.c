@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-    float a, b, c;
+    float a, b, c;  
     float discriminant, root1, root2;
 
     printf("Enter coefficients a, b, and c of the quadratic equation (ax^2 + bx + c): ");
